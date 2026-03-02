@@ -1,4 +1,4 @@
-# Career Copilot — AI Career Pathfinder
+# Career Copilot
 
 <div align="center">
 
